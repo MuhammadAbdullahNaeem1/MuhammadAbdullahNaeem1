@@ -92,23 +92,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullahNaeem1&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=MuhammadAbdullahNaeem1&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullahNaeem1&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdullahNaeem1&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
