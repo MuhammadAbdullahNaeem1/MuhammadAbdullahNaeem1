@@ -75,20 +75,30 @@
 !Ethereum
 
 ---
-
 ### 💡 Featured Projects
 
-| Project | What it does |
-| :------ | :----------- |
-| 🤖 **Multi-Agent-AI-Customer-Support** | Multi-agent system that triages and resolves support tickets |
-https://github.com/MuhammadAbdullahNaeem1/Multi-Agent-AI-Customer-Support
-| 📉 **AI-Powered Customer Churn Prediction Dashboard** | Predicts which customers will churn — and what to do about it |
-https://github.com/MuhammadAbdullahNaeem1/AI-Powered-Customer-Churn-Prediction-Dashboard
-| 🗣️ **AI-Powered-NL2SQL-Analytics-Assistant** | Turns plain-English questions into live SQL |
-https://github.com/MuhammadAbdullahNaeem1/AI-Powered-NL2SQL-Analytics-Assistant
-| 📄 **Legal-Document-Intelligence-Platform-RAG** | Question any contract, get answers with cited proof |
-https://github.com/MuhammadAbdullahNaeem1/Legal-Document-Intelligence-Platform-RAG
-<p align="center"><i>Full case studies with live screenshots on my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio →</a></i></p>
+<div align="center">
+
+| 🚀 Project | ✨ Description |
+|:---|:---|
+| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-Cardiac-MRI-Diagnostic-System"><b>🩺 AI-Powered Cardiac MRI Diagnostic System</b></a> | Federated-learning cardiac diagnostics with privacy-preserving AI for accurate cardiac MRI analysis. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/Multi-Agent-AI-Customer-Support"><b>🤖 Multi-Agent AI Customer Support</b></a> | Intelligent multi-agent workflow that triages, routes, and resolves customer support tickets autonomously. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-Customer-Churn-Prediction-Dashboard"><b>📉 AI-Powered Customer Churn Prediction Dashboard</b></a> | Predicts customer churn with actionable business insights using machine learning and interactive dashboards. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-NL2SQL-Analytics-Assistant"><b>🗣️ AI-Powered NL2SQL Analytics Assistant</b></a> | Converts natural-language questions into SQL queries for instant business analytics. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/Legal-Document-Intelligence-Platform-RAG"><b>📄 Legal Document Intelligence Platform (RAG)</b></a> | Ask questions about legal documents and receive grounded answers with cited evidence using Retrieval-Augmented Generation. |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/MuhammadAbdullahNaeem1?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-8B7CF8?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+<i>Click any project name to explore the repository, or visit my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio</a> for full case studies and live screenshots.</i>
+</p>
+>Full case studies with live screenshots on my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio →</a></i></p>
 
 ---
 
