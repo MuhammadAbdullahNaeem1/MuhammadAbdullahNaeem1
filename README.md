@@ -81,12 +81,11 @@
 
 | Project | What it does |
 | :------ | :----------- |
-| 🩺 **SymptomSense AI** | Federated-learning cardiac diagnostics — accurate *and* fully private |
-| 🤖 **LogiFlow Support Agent** | Multi-agent system that triages and resolves support tickets |
-| 📉 **Churn Radar** | Predicts which customers will churn — and what to do about it |
-| 🗣️ **Ask-Your-Database Agent** | Turns plain-English questions into live SQL |
-| 📄 **Legal Document Intelligence** | Question any contract, get answers with cited proof |
-| 🛍️ **Aesh.Summer** | A full e-commerce platform for a clothing brand |
+| 🩺 **AI-Powered Cardiac MRI Diagnostic System** | Federated-learning cardiac diagnostics — accurate *and* fully private |
+| 🤖 **Multi-Agent-AI-Customer-Support** | Multi-agent system that triages and resolves support tickets |
+| 📉 **AI-Powered Customer Churn Prediction Dashboard** | Predicts which customers will churn — and what to do about it |
+| 🗣️ **AI-Powered-NL2SQL-Analytics-Assistant** | Turns plain-English questions into live SQL |
+| 📄 **Legal-Document-Intelligence-Platform-RAG** | Question any contract, get answers with cited proof |
 
 <p align="center"><i>Full case studies with live screenshots on my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio →</a></i></p>
 
