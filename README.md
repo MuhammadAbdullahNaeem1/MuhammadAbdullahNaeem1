@@ -79,16 +79,23 @@
 
 ### 💡 Featured Projects
 
-| Project | What it does |
-| :------ | :----------- |
-| 🩺 **AI-Powered Cardiac MRI Diagnostic System** | Federated-learning cardiac diagnostics — accurate *and* fully private |
-| 🤖 **Multi-Agent-AI-Customer-Support** | Multi-agent system that triages and resolves support tickets |
-| 📉 **AI-Powered Customer Churn Prediction Dashboard** | Predicts which customers will churn — and what to do about it |
-| 🗣️ **AI-Powered-NL2SQL-Analytics-Assistant** | Turns plain-English questions into live SQL |
-| 📄 **Legal-Document-Intelligence-Platform-RAG** | Question any contract, get answers with cited proof |
+<div align="center">
 
-<p align="center"><i>Full case studies with live screenshots on my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio →</a></i></p>
+| 🚀 Project | ✨ What it does |
+|:-----------|:----------------|
+| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-Cardiac-MRI-Diagnostic-System"><b>🩺 AI-Powered Cardiac MRI Diagnostic System</b></a> | Federated-learning cardiac diagnostics with privacy-preserving AI for accurate cardiac MRI analysis. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/Multi-Agent-AI-Customer-Support"><b>🤖 Multi-Agent AI Customer Support</b></a> | Multi-agent AI system that intelligently triages, routes, and resolves customer support tickets. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-Customer-Churn-Prediction-Dashboard"><b>📉 AI-Powered Customer Churn Prediction Dashboard</b></a> | Uses machine learning to predict customer churn and provide actionable business insights. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-NL2SQL-Analytics-Assistant"><b>🗣️ AI-Powered NL2SQL Analytics Assistant</b></a> | Converts natural-language questions into SQL queries for instant analytics and reporting. |
+| <a href="https://github.com/MuhammadAbdullahNaeem1/Legal-Document-Intelligence-Platform-RAG"><b>📄 Legal Document Intelligence Platform (RAG)</b></a> | Chat with legal documents and receive grounded answers backed by cited evidence. |
 
+</div>
+
+<p align="center">
+  <a href="https://github.com/MuhammadAbdullahNaeem1?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-8B7CF8?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+</p>
 ---
 
 ### 🤝 Let's Connect
