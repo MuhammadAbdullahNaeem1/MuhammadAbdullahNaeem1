@@ -96,8 +96,10 @@
     <img src="https://img.shields.io/badge/View%20All%20Projects-8B7CF8?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
-
+<p align= "center">
 ### 🤝 Let's Connect
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullahnaeem-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
