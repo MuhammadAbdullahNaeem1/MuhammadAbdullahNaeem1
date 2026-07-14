@@ -97,7 +97,7 @@
   </a>
 </p>
 <p align= "center">
-### 🤝 Let's Connect
+<b> 🤝 Let's Connect</b>
 </p>
 
 
