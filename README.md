@@ -96,7 +96,6 @@
     <img src="https://img.shields.io/badge/View%20All%20Projects-8B7CF8?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
----
 
 ### 🤝 Let's Connect
 
