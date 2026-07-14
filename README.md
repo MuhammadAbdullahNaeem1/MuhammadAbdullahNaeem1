@@ -1,4 +1,5 @@
-!Banner
+
+![Banner](https://github.com/MuhammadAbdullahNaeem1/MuhammadAbdullahNaeem1/assets/105659099/53554c99-6413-499b-85cd-98f27f256ff6)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -25,7 +26,7 @@
 - 🌱 &nbsp;Deep into **RAG platforms, LLM agents, and federated learning** for privacy-preserving ML
 - 🎓 &nbsp;Computer Science @ **FAST-NUCES** (where I also served as a Teaching Assistant)
 - 💬 &nbsp;Ask me about **React / Next.js, FastAPI / Django, LangChain / LangGraph, PyTorch**
-- ⚡ &nbsp;Explore my work → **muhammadabdullahnaeem1.github.io**
+- ⚡ &nbsp;Explore my work → **[muhammadabdullahnaeem1.github.io](https://muhammadabdullahnaeem1.github.io/)**
 
 ---
 
@@ -33,72 +34,60 @@
 
 **Languages**
 
-!Python
-!JavaScript
-!C++
-!C#
-!C
-!PHP
-!HTML5
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **AI / ML**
 
-!PyTorch
-!TensorFlow
-!LangChain
-!LangGraph
-!RAG
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6D5A?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logo=databricks&logoColor=white)
 
 **Frontend**
 
-!React
-!Next.js
-!Figma
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **Backend**
 
-!FastAPI
-!Django
-!Node.js
-!.NET
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Databases**
 
-!PostgreSQL
-!MySQL
-!MongoDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **DevOps & Web3**
 
-!Docker
-!Git
-!Ethereum
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ---
+
 ### 💡 Featured Projects
 
-<div align="center">
+| Project | What it does |
+| :------ | :----------- |
+| 🩺 **AI-Powered Cardiac MRI Diagnostic System** | Federated-learning cardiac diagnostics — accurate *and* fully private |
+| 🤖 **Multi-Agent-AI-Customer-Support** | Multi-agent system that triages and resolves support tickets |
+| 📉 **AI-Powered Customer Churn Prediction Dashboard** | Predicts which customers will churn — and what to do about it |
+| 🗣️ **AI-Powered-NL2SQL-Analytics-Assistant** | Turns plain-English questions into live SQL |
+| 📄 **Legal-Document-Intelligence-Platform-RAG** | Question any contract, get answers with cited proof |
 
-| 🚀 Project | ✨ Description |
-|:---|:---|
-| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-Cardiac-MRI-Diagnostic-System"><b>🩺 AI-Powered Cardiac MRI Diagnostic System</b></a> | Federated-learning cardiac diagnostics with privacy-preserving AI for accurate cardiac MRI analysis. |
-| <a href="https://github.com/MuhammadAbdullahNaeem1/Multi-Agent-AI-Customer-Support"><b>🤖 Multi-Agent AI Customer Support</b></a> | Intelligent multi-agent workflow that triages, routes, and resolves customer support tickets autonomously. |
-| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-Customer-Churn-Prediction-Dashboard"><b>📉 AI-Powered Customer Churn Prediction Dashboard</b></a> | Predicts customer churn with actionable business insights using machine learning and interactive dashboards. |
-| <a href="https://github.com/MuhammadAbdullahNaeem1/AI-Powered-NL2SQL-Analytics-Assistant"><b>🗣️ AI-Powered NL2SQL Analytics Assistant</b></a> | Converts natural-language questions into SQL queries for instant business analytics. |
-| <a href="https://github.com/MuhammadAbdullahNaeem1/Legal-Document-Intelligence-Platform-RAG"><b>📄 Legal Document Intelligence Platform (RAG)</b></a> | Ask questions about legal documents and receive grounded answers with cited evidence using Retrieval-Augmented Generation. |
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/MuhammadAbdullahNaeem1?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-8B7CF8?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-<i>Click any project name to explore the repository, or visit my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio</a> for full case studies and live screenshots.</i>
-</p>
->Full case studies with live screenshots on my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio →</a></i></p>
+<p align="center"><i>Full case studies with live screenshots on my <a href="https://muhammadabdullahnaeem1.github.io/">portfolio →</a></i></p>
 
 ---
 
